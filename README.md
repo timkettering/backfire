@@ -1,3 +1,5 @@
+![2016 Backfire Sign](https://img.timkettering.com/fit-in/1400x1200/bm-2016/backfire-frontage.jpg)
+
 # backfire - ASL Centric Maker Camp 
 
 Welcome to backfire's repo! This repo is not meant to be a complete view into the camp, but a source repository for certain components, mainly infrastructure and build related things.
