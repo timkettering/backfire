@@ -8,4 +8,8 @@ Backfire is a ASL-centric camp that has been a placed camp at Burning Man for th
 
 ## What is ASL?
 
-ASL is American Sign Language.  The majority of our campers are Deaf and most of our campers know ASL.
+ASL is American Sign Language.  The majority of our campers are Deaf and most of our campers know ASL.  
+
+## What will we find here?
+
+* [Infrastructure](/infrastructure.md) - take a look at build pages and plans for infrastructure.
