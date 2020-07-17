@@ -1,4 +1,4 @@
-![2016 Backfire Sign](https://img.timkettering.com/fit-in/1400x1200/bm-2016/backfire-frontage.jpg)
+![2016 Backfire Sign](https://img.timkettering.com/fit-in/1000x800/bm-2016/backfire-frontage.jpg)
 
 # backfire - ASL Centric Maker Camp 
 
